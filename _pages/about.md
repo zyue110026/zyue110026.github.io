@@ -55,9 +55,8 @@ Awards and Honors
 - 🏅 **100+ Women Strong Outstanding Departmental Annual Graduate Award**, Auburn University (2024)  
 - 🎓 **Gavin Graduate Student Fellow**, Auburn University (2023)  
 - 🥈 **Second-Class Scholarship (Top 5%)**, Anhui Jianzhu University (2019)  
-- 🏆 **Excellent Minister of Student Union**, Anhui Jianzhu University (2019)  
-- 🏃‍♂️ **Outstanding Individual in Recreational and Sports Activities**, Anhui Jianzhu University (2019)  
+- 🏆 **Excellent Minister of Student Union**, Anhui Jianzhu University (2019)    
 - 🥉 **Third-Class Scholarship (Top 10%)**, Anhui Jianzhu University (2018)  
-- 🤖 **Second Prize in Robot Solo Dance Competition**, Anhui Province (2018)  
+
 
 
