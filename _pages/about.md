@@ -28,6 +28,28 @@ Anhui Jianzhu University, China
 <em>September 2017 – July 2021</em>  
 GPA: 3.4/4.0  
 
+Open Source Contributions
+======
+- Discovered and reported **19 previously unknown bugs** across 15 Kubernetes GitHub repositories using static analysis, all confirmed and fixed by maintainers.  
+  [1](https://github.com/kedacore/charts/issues/648), 
+  [2](https://github.com/clastix/kamaji/issues/505), 
+  [3](https://github.com/k8gb-io/k8gb/issues/1676), 
+  [4](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/2101), 
+  [5](https://github.com/zalando/postgres-operator/issues/2707), 
+  [6](https://github.com/carina-io/carina/issues/208), 
+  [7](https://github.com/mspnp/microservices-reference-implementation/issues/243), 
+  [8](https://github.com/apache/dubbo-admin/issues/1282), 
+  [9](https://github.com/aws/amazon-vpc-cni-k8s/issues/3009), 
+  [10](https://github.com/kube-logging/logging-operator/issues/1791), 
+  [11](https://github.com/kube-green/kube-green/issues/460), 
+  [12](https://github.com/kubeshark/kubeshark/issues/1601), 
+  [13](https://github.com/apache/openwhisk-deploy-kube/issues/782), 
+  [14](https://github.com/clusternet/clusternet/issues/814), 
+  [15](https://github.com/kserve/kserve/issues/3929)
+- Identified and reported **2 security-related issues** involving Kubernetes pod configuration parameters across 2 GitHub repositories using *t*-way covering; both were fixed.  
+  [1](https://github.com/prometheus-community/helm-charts/issues/5874),
+  [2](https://github.com/carlosedp/cluster-monitoring/issues/185).
+
 Awards and Honors
 ======
 - 🏅 **100+ Women Strong Outstanding Departmental Annual Graduate Award**, Auburn University (2024)  
