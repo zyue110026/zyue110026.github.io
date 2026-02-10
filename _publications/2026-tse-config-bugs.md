@@ -7,5 +7,5 @@ excerpt: 'Presents early findings on quality assurance patterns in Ansible-based
 year: 2026
 venue: 'IEEE Transactions on Software Engineering (TSE), 2026'
 paperurl: 'tse26.pdf'
-author: 'Yue Zhang, Ucchwas Paul, Marcelo d' Amorim, and Akond Rahman.'
+author: "Yue Zhang, Ucchwas Paul, Marcelo d' Amorim, and Akond Rahman."
 ---
