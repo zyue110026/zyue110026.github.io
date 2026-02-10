@@ -1,5 +1,5 @@
 ---
-title: "Configuration Defects in Kubernetes"
+title: 'Configuration Defects in Kubernetes'
 collection: publications
 category: journal
 permalink: /publication/2026-tse-config-bugs
